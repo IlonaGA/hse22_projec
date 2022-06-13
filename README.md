@@ -22,6 +22,7 @@ https://colab.research.google.com/drive/1E96p2sqwwg0GLWwLrj1snMLPhTZBmxq_#scroll
  ### Гомологичные кластеры
 
 Гистограмма:
+
 <img width="522" alt="image" src="https://user-images.githubusercontent.com/60537387/173356530-b198a981-7625-4cb2-ab7f-f5e8a829b569.png">
 
-
+Всего 1858 кластеров.
