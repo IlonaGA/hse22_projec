@@ -5,11 +5,11 @@ https://colab.research.google.com/drive/1E96p2sqwwg0GLWwLrj1snMLPhTZBmxq_#scroll
 ### Анализ аннотированных генов:
 | Название | Число аннотированных генов | Процент | Участков Z-dna предсказано | Длина участков Z-dna |
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
-| Vibrio kanaloae | 4196 | 84.56% | | |
-| Vibrio gazogenes | 4266 | 84.66% | | |
-| Vibrio furnissii | 4656 | 87.02% | | |
-| Vibrio cholerae | 3837 | 86.76% | | |
-| Vibrio astriarenae | 4366 | 86.8% | 9107 | 87638
+| Vibrio kanaloae | 4196 | 84.56% | 6318 | 60874 |
+| Vibrio gazogenes | 4266 | 84.66% | 5159 | 49292 |
+| Vibrio furnissii | 4656 | 87.02% | 32940 | 317438 |
+| Vibrio cholerae | 3837 | 86.76% | 13524 | 128090|
+| Vibrio astriarenae | 4366 | 86.8% | 9107 | 87638 |
 
 
 ### Предсказание участков Z-DNA:
