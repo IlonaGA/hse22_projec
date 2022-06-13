@@ -10,3 +10,11 @@ https://colab.research.google.com/drive/1E96p2sqwwg0GLWwLrj1snMLPhTZBmxq_#scroll
 | Vibrio furnissii | 4656 | 87.02% |
 | Vibrio cholerae | 3837 | 86.76% |
 | Vibrio astriarenae | 4366 | 86.8% |
+
+<img width="409" alt="image" src="https://user-images.githubusercontent.com/60537387/173353779-cdf90a60-6323-4028-a09b-fdd5494be413.png">
+<img width="414" alt="image" src="https://user-images.githubusercontent.com/60537387/173353893-58001fb6-1919-4575-a7d2-3632d7d0d00b.png">
+<img width="428" alt="image" src="https://user-images.githubusercontent.com/60537387/173353970-4ac361e5-f58d-4ec1-9228-bca20bbf29ef.png">
+<img width="426" alt="image" src="https://user-images.githubusercontent.com/60537387/173354029-527ce6b4-4253-4522-9803-260b09ed827c.png">
+<img width="434" alt="image" src="https://user-images.githubusercontent.com/60537387/173354064-edd092e2-3350-4f9a-a69c-610e211f72a5.png">
+
+
