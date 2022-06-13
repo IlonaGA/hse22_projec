@@ -25,3 +25,12 @@
 <img width="522" alt="image" src="https://user-images.githubusercontent.com/60537387/173356530-b198a981-7625-4cb2-ab7f-f5e8a829b569.png">
 
 Всего 1858 кластеров.
+
+Отобранные кластеры:
+| Номер | Генов в кластере | Функция генов |  Z-DNA score |
+| ------------- | ------------- | ------------- | ------------- | 
+| 246 | 5 | 50S ribosomal protein | 3160.72 |
+| 1225 | 5 | elongation factor G | 2968.97 |
+| 239 | 5 | 30S ribosomal protein S17 | 1222.13 |
+| 169 | 5 | CvpA family protein | 5627.82 |
+| 463 | 5 |  glycosyl transferase  | 36643.15 |
