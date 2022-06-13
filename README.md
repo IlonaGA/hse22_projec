@@ -19,4 +19,9 @@ https://colab.research.google.com/drive/1E96p2sqwwg0GLWwLrj1snMLPhTZBmxq_#scroll
 | <img width="428" alt="image" src="https://user-images.githubusercontent.com/60537387/173353970-4ac361e5-f58d-4ec1-9228-bca20bbf29ef.png"> | <img width="426" alt="image" src="https://user-images.githubusercontent.com/60537387/173354029-527ce6b4-4253-4522-9803-260b09ed827c.png"> |
 | <img width="434" alt="image" src="https://user-images.githubusercontent.com/60537387/173354064-edd092e2-3350-4f9a-a69c-610e211f72a5.png"> | |
 
+ ### Гомологичные кластеры
+
+Гистограмма:
+<img width="522" alt="image" src="https://user-images.githubusercontent.com/60537387/173356530-b198a981-7625-4cb2-ab7f-f5e8a829b569.png">
+
 
