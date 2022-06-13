@@ -1,4 +1,7 @@
 # hse22_project
+
+https://colab.research.google.com/drive/1E96p2sqwwg0GLWwLrj1snMLPhTZBmxq_#scrollTo=XO8UQfHJwTSN
+
 ### Анализ аннотированных генов
 | Название | Число аннотированных генов | Процент |
 | ------------- | ------------- | ------------- | 
