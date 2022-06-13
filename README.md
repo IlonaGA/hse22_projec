@@ -37,4 +37,50 @@
 
 ### Множественное белковое выравнивание:
 
+Получено с помощью MegaX:
+
+0:
+
+<img width="1436" alt="image" src="https://user-images.githubusercontent.com/60537387/173438945-b5186915-d12d-421e-86fc-e283b7affddb.png">
+
+1:
+
+<img width="1437" alt="image" src="https://user-images.githubusercontent.com/60537387/173439151-ce1b026f-bcb5-4b3b-bd92-987eb9a8f910.png">
+
+2:
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/60537387/173439240-b13a1bb5-75d2-46ae-9773-f5c7879fb4fc.png">
+
+3:
+
+<img width="1439" alt="image" src="https://user-images.githubusercontent.com/60537387/173439346-7e552583-e9e0-4eb6-9419-4ab5cc1cf7f6.png">
+
+4:
+
+<img width="1439" alt="image" src="https://user-images.githubusercontent.com/60537387/173439444-863ea99f-21b1-40f3-93ee-ac4d5904cf82.png">
+
 ### Визуализация расположения участков Z-DNA:
+![telegram-cloud-photo-size-2-5278742419032095541-y](https://user-images.githubusercontent.com/60537387/173437781-1de3595b-d2cb-435c-a7fe-bc9f619d89b1.jpg)
+![telegram-cloud-photo-size-2-5278742419032095545-y](https://user-images.githubusercontent.com/60537387/173437816-b8aaabe9-6f7f-4cd2-8fcf-ef068f9d5d41.jpg)
+![telegram-cloud-photo-size-2-5278742419032095546-y](https://user-images.githubusercontent.com/60537387/173437846-083dc5e6-83fc-4f73-aa6f-b9960ad2920a.jpg)
+![telegram-cloud-photo-size-2-5278742419032095547-y](https://user-images.githubusercontent.com/60537387/173437876-5fa26cfc-2fe8-4a24-869f-672d5a98fa28.jpg)
+![telegram-cloud-photo-size-2-5278742419032095548-y](https://user-images.githubusercontent.com/60537387/173437909-e301e191-3aa2-4e8a-b666-afd0249f9dce.jpg)
+![telegram-cloud-photo-size-2-5278742419032095549-y](https://user-images.githubusercontent.com/60537387/173437930-ffb547be-6471-4d1c-af54-8d651a488b6f.jpg)
+![telegram-cloud-photo-size-2-5278742419032095550-y](https://user-images.githubusercontent.com/60537387/173437956-9bf74dfe-d3f3-4a08-897f-0f6f1f72f307.jpg)
+![telegram-cloud-photo-size-2-5278742419032095552-y](https://user-images.githubusercontent.com/60537387/173437980-6af4e8d6-3769-4748-a525-4487605842a8.jpg)
+![telegram-cloud-photo-size-2-5278742419032095553-y](https://user-images.githubusercontent.com/60537387/173438005-4e4b402e-ad01-4794-9568-e7de1900c10b.jpg)
+![telegram-cloud-photo-size-2-5278742419032095554-y](https://user-images.githubusercontent.com/60537387/173438023-f3250612-2311-48c4-b2a7-d2308b3ff683.jpg)
+![telegram-cloud-photo-size-2-5278742419032095555-y](https://user-images.githubusercontent.com/60537387/173438038-6be38c57-cafd-4633-b79b-286702fe9392.jpg)
+![telegram-cloud-photo-size-2-5278742419032095556-y](https://user-images.githubusercontent.com/60537387/173438053-3745bed5-9e2d-4ce6-8af1-efc748fc9326.jpg)
+![telegram-cloud-photo-size-2-5278742419032095557-y](https://user-images.githubusercontent.com/60537387/173438068-27a6e283-53d3-4bfc-90df-93ec933b5af6.jpg)
+![telegram-cloud-photo-size-2-5278742419032095558-y](https://user-images.githubusercontent.com/60537387/173438084-8c6b6725-fc6d-4229-ba80-7ef5a95f1aec.jpg)
+![telegram-cloud-photo-size-2-5278742419032095559-y](https://user-images.githubusercontent.com/60537387/173438098-2d90d71e-7a8e-473e-be17-ebde86123df5.jpg)
+![telegram-cloud-photo-size-2-5278742419032095560-y](https://user-images.githubusercontent.com/60537387/173438112-b7a9b87b-8123-4de7-a49c-e78de42063fd.jpg)
+![telegram-cloud-photo-size-2-5278742419032095561-y](https://user-images.githubusercontent.com/60537387/173438126-7359dc72-07b2-4512-8aff-42fe115c3487.jpg)
+
+
+
+
+
+
+
